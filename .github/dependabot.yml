@@ -8,4 +8,9 @@ updates:
   - package-ecosystem: "maven" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
+<<<<<<< HEAD
       interval: "weekly"
+=======
+      interval: "weekly"
+      
+>>>>>>> d875d36e0d7b2bf197c4406833002e2451473aa2
